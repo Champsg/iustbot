@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://iust-notice-bot.onrender.com/sitemap.xml
